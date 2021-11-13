@@ -1,5 +1,5 @@
 # Serge-Tassiga-MidTerm-Summative
-Question 1:
+#Question 1:
 
 Basically, I have understood a bit this question. with step by step descriptive logic to count occurrences of all words.
 I have proceeded with opening the file with *file and the next I declared an array of word it needed and the count k declaration. it is incrementing whether it is exist or not.
@@ -10,7 +10,7 @@ In summary, I have struggling with it to proceed for the final ouput. No erro in
 
 
 
-Question 2:
+#Question 2:
 
 In this question, I have tried many time to understand code but i'm struggling with array part how to start the program. That why i have started but i didn't finish it
 
