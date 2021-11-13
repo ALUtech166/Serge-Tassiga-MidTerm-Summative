@@ -6,11 +6,12 @@ I have proceeded with opening the file with *file and the next I declared an arr
 
 first of all it is starting by if condition whether if the file exist or not if null it will print file doesn't exist and try to create the file and else it will print the content of file ton start the count occurrences of all words in the file.
 
-In summary, I have struggling with it to proceed for the final ouput. No erro in Code but it is taking time to run thr code. My file is till being Null.
+In summary, I have struggling with it to proceed for the final ouput. No erro in Code but it is taking time to run thr code. My file is till being Null. but with many trying. I have perfectly runned my program. It works correctley.
 
 
 
 #Question 2:
 
-In this question, I have tried many time to understand code but i'm struggling with array part how to start the program. That why i have started but i didn't finish it
+In this question, I have tried many time to understand code but i'm struggling with array part how to start the program. but by the end it looks simple for me to implement my thoughts.
 
+I will like these questions its gave me too much reflexion to handle them.
